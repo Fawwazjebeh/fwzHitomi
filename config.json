@@ -1,10 +1,10 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "ownerNum": "6285921165857",
-  "botName": "Hitomi MD",
-  "footer": "© Hitomi MD 2022",
-  "fake": "Bot By Christian ID",
+  "ownerNumber": ["6281284843853@s.whatsapp.net"],
+  "ownerName": ["FwzID"],
+  "ownerNum": "6281284843853",
+  "botName": "Fwziv MD",
+  "footer": "© rell MD 2022",
+  "fake": "Bot By CFwz ID",
   "sessionName": "hitomi",
   "pathimg": "./media/hitomi.jpg",
   
@@ -21,7 +21,7 @@
   "quickReplyButton4": "Donasi 💰",
   "quickReplyButton5": "Rate Bot ⭐",
    
-  "ButtonMenuLink1": "https://youtube.com/c/ChristianID99",
+  "ButtonMenuLink1": "https://youtube.com/c/fwzganz",
   "ButtonMenuLink2": "https://rest-api-hitomi.herokuapp.com/docs",
   "displayTextMenu3": "command",
   "displayTextMenu4": "donasi",
